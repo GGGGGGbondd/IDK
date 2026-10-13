@@ -1,0 +1,1 @@
+{"name":"memory-world","version":"1.0.0","private":true,"description":"记忆世界 · Your Life as a World","scripts":{"start":"node server.js"},"dependencies":{"ws":"^8.18.3"}}
